@@ -1,1 +1,2 @@
-print('Hello World')
+print('first print')
+print('second print')
